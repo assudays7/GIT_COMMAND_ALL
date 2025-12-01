@@ -1,0 +1,14 @@
+.bg1 {
+    background-image: url(./foto/Mask\ Group\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 401px;
+    background-size: cover;
+}
+.bg2 {
+    background-image: url(./foto/image\ 27.png);
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 401px;
+    background-size: cover;
+}
